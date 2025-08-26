@@ -1,1 +1,1 @@
-# openvino-vulkan-plugin
+# openvino-iree-plugin
